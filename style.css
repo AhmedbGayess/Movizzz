@@ -1,0 +1,56 @@
+body{
+    margin: 0 auto;
+    padding-bottom: 50px;
+    background: #F0EBE5;
+}
+
+#banner{
+    height: 10%;
+    background: #8D8E8E;
+    padding: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+h1{
+    color: #FFCD11;
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+    letter-spacing: 3px;
+}
+
+.container{
+    text-align: center;
+    
+}
+
+.movie{
+    margin-top: 20px;
+}
+
+.poster{
+    height:400px;
+    width: 250px;
+    margin-bottom: 10px;
+    border: solid 1px #32383D; 
+}
+
+.modal-body{
+    text-align: justify;
+}
+
+.btn-primary {
+    color: black;
+    background-color: #FFE170;
+    border-color: #D2CCA1;
+}
+
+.btn:hover {
+    background: #8D8E8E;
+    border: #8D8E8E;
+}
+
+.btn:focus,.btn:active {
+    outline: none;
+    box-shadow: none;
+ }
